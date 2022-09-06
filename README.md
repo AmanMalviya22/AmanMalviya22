@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @AmanMalviya22<br>- 👀 I’m interested in ..Web Development , DSA , Coding.<br>- 🌱 I’m currently learning ... Backend Development in Node.js<br>- 📫 How to reach me ...<br>Linkedln->https://www.linkedin.com/in/aman-malviya-839392201/<br>Twitter-->https://twitter.com/Aman60506821<br>Instagram->https://www.instagram.com/aman.malviya22/<br>Qoura--->https://www.quora.com/profile/Aman-1590<br>
+- 👋 Hi, I’m @AmanMalviya22<br>- 👀 I’m interested in ..Web Development , DSA , Coding.<br>- 🌱 I’m currently learning ... Backend Development in Node.js<br>- 📫 How to reach me ...
 
 
 ## 🌐 Socials:
@@ -15,11 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AmanMalviya22&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmanMalviya22&icon=0&color=0)](https://visitcount.itsvg.in)
