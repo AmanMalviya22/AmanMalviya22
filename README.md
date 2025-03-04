@@ -6,7 +6,7 @@
   <li>Follow me on <a href="https://www.linkedin.com/in/aman-malviya-839392201/">LinkedIn</a> and <a href="https://x.com/AmanMalviy22">X</a> to stay updated.</li>
 </ul>
 
-&nbsp;![](https://komarev.com/ghpvc/?username=ashishps1&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en" alt="ashishps1" />
+&nbsp;![](https://komarev.com/ghpvc/?username=AmanMalviya22&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AmanMalviya22&show_icons=true&locale=en" alt="ashishps1" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
